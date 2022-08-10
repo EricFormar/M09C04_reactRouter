@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### GUIDE
+
+- Instalar __React Router DOM__ `yarn add react-router-dom`
+- Importar en el entry point __index.js__ el método __{BrowserRouter}__ para quetoda la aplicación sepa que vamos a utilizar __React Router__ `import {BrowserRouter} from 'react-router-dom'`
